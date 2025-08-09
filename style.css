@@ -28,15 +28,15 @@ header h1 {
 }
 
 .rivlum-text {
-  font-family: "Meddon", cursive;
-  font-size: 28pt;
+  font-family: "My Soul", cursive;
+  font-size: 64pt;
   color: #ffffff; /* Color para un estilo de caligrafía */
   text-decoration: none;
 }
 
 .ae-text {
-  font-family: "Meie Script", cursive;
-  font-size: 64pt;
+  font-family: "Inspiration", cursive;
+  font-size: 280pt;
   color: #ffffff; /* Color de contraste */
   text-decoration: none;
 }
