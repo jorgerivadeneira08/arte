@@ -1,6 +1,15 @@
-css
-Copy
-Edit
+@font-face {
+  font-family: 'Rage Italic';
+  src: url('fonts/RageItalic.ttf') format('truetype');
+}
+
+.trocchi-regular {
+  font-family: "Trocchi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +32,20 @@ header {
 header h1 {
   font-size: 2.5rem;
   letter-spacing: 4px;
+}
+
+.rivlum-text {
+  font-family: 'Rage Italic', cursive;
+  font-size: 12pt;
+  color: #8B4513; /* Color para un estilo de caligrafía */
+  text-decoration: none;
+}
+
+.ae-text {
+  font-family: 'High Tower Text', serif;
+  font-size: 48pt;
+  color: #800000; /* Color de contraste */
+  text-decoration: none;
 }
 
 nav a {
