@@ -3,18 +3,6 @@
   src: url('fonts/RageItalic.ttf') format('truetype');
 }
 
-.meddon-regular {
-  font-family: "Meddon", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.cormorant-garamond {
-  font-family: "Cormorant Garamond", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -40,14 +28,14 @@ header h1 {
 }
 
 .rivlum-text {
-  font-family: 'Rage Italic', cursive;
+  font-family: "Meddon", cursive;
   font-size: 14pt;
   color: #ffffff; /* Color para un estilo de caligrafía */
   text-decoration: none;
 }
 
 .ae-text {
-  font-family: 'High Tower Text', serif;
+  font-family: "Cormorant Garamond", serif;
   font-size: 48pt;
   color: #ffffff; /* Color de contraste */
   text-decoration: none;
