@@ -37,14 +37,14 @@ header h1 {
 .rivlum-text {
   font-family: 'Rage Italic', cursive;
   font-size: 12pt;
-  color: #8B4513; /* Color para un estilo de caligrafía */
+  color: #ffffff; /* Color para un estilo de caligrafía */
   text-decoration: none;
 }
 
 .ae-text {
   font-family: 'High Tower Text', serif;
   font-size: 48pt;
-  color: #800000; /* Color de contraste */
+  color: #ffffff; /* Color de contraste */
   text-decoration: none;
 }
 
