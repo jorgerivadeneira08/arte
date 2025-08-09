@@ -3,12 +3,17 @@
   src: url('fonts/RageItalic.ttf') format('truetype');
 }
 
-.trocchi-regular {
-  font-family: "Trocchi", serif;
+.meddon-regular {
+  font-family: "Meddon", cursive;
   font-weight: 400;
   font-style: normal;
 }
 
+.cormorant-garamond {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 * {
   margin: 0;
